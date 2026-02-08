@@ -1,0 +1,20 @@
+{
+  "all_faculties": [
+      {
+        "faculty_name": "ФМІ",
+        "folder_name": "fmi"
+      },
+      {    
+        "faculty_name": "ППФ",
+        "folder_name": "ppf"
+      },
+      {    
+        "faculty_name": "ФІПМВ",
+        "folder_name": "fipmv"
+      },
+      {    
+        "faculty_name": "ДКМТФ",
+        "folder_name": "dkmtf"
+      }
+  ]
+}
