@@ -2,14 +2,14 @@
     "week": [
         [
             {
-                "lesson_name": "нб Основи програмної інженерії доц. Шроль Т.С.",
+                "lesson_name": "Основи програмної інженерії доц. Шроль Т.С.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/abr-wuiu-ywc"
             },
             {
-                "lesson_name": "Розробка UI/UX дизайну та web-сервісів доц. Шроль Т.С.",
+                "lesson_name": "Розробка UI/UX дизайну та web-сервісів в. Пропопюк Л.С.",
                 "lesson_number": 2,
-                "link": "https://meet.google.com/abr-wuiu-ywc"
+                "link": "https://meet.google.com/xkc-cpxf-bhj"
             },
             {
                 "lesson_name": "Бази даних доц. Бабич С.М.",
@@ -24,9 +24,9 @@
                 "link": "https://meet.google.com/abr-wuiu-ywc"
             },
             {
-                "lesson_name": "Розробка UI/UX дизайну та web-сервісів доц. Шроль Т.С.",
+                "lesson_name": "Розробка UI/UX дизайну та web-сервісів в. Пропопюк Л.С.",
                 "lesson_number": 2,
-                "link": "https://meet.google.com/abr-wuiu-ywc"
+                "link": "https://meet.google.com/xkc-cpxf-bhj"
             },
             {
                 "lesson_name": "Бази даних доц. Бабич С.М.",
