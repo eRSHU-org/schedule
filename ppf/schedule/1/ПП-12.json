@@ -18,19 +18,32 @@
         "link": "11:10 https://meet.google.com/zrz-qhbt-bmv"
       }
     ],
-    [],
     [
       {
-        "lesson_name": "АСПН доц. Сторож О. В.",
-        "link": "12:45 https://meet.google.com/kqv-pjor-wek"
+        "lesson_name": "Практикум  доц. Артемова О. І.",
+        "link": "12:45"
       },
       {
-        "lesson_name": "АСПН доц. Сторож О. В.",
-        "link": "14:15 https://meet.google.com/kqv-pjor-wek"
+        "lesson_name": "Іноземна мова  ст. в. Денисюк Л. В.",
+        "link": "09:35"
       },
       {
-        "lesson_name": "ТІМВ доц. Ваколюк А. М.",
-        "link": "11:10 https://meet.google.com/fte-yaui-swa"
+        "lesson_name": "Іноземна мова  ст. в. Денисюк Л. В.",
+        "link": "11:10"
+      }
+    ],
+    [
+      {
+        "lesson_name": "https://meet.google.com/kqv-pjor-wek АСПН доц. Сторож О. В.",
+        "link": "12:45 "
+      },
+      {
+        "lesson_name": "https://meet.google.com/kqv-pjor-wek АСПН доц. Сторож О. В.",
+        "link": "14:15 "
+      },
+      {
+        "lesson_name": "https://meet.google.com/fte-yaui-swa ТІМВ доц. Ваколюк А. М.",
+        "link": "11:10 "
       }
     ],
     [
