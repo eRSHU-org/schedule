@@ -20,7 +20,16 @@
         "link": "11:10https://meet.google.com/kua-cycu-hoa"
       }
     ],
-    [],
+    [
+      {
+        "lesson_name": "Ф і БР ст. в. Куцоконь Л. П.",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "Ф і БР ст. в. Куцоконь Л. П.",
+        "link": "14:15"
+      }
+    ],
     [
       {
         "lesson_name": "ШКБ ст. в. Гусаковська Т. М.",
@@ -41,12 +50,12 @@
         "link": "14:15 https://meet.google.com/vbg-xzqe-dqj"
       },
       {
-        "lesson_name": "Вел. пр. з зоології ст. в. Гусоковська Т. М.",
-        "link": "09:35 https://meet.google.com/vbg-xzqe-dqj"
+        "lesson_name": " https://meet.google.com/vbg-xzqe-dqj Вел. пр. з зоології ст. в. Гусоковська Т. М.",
+        "link": "09:35"
       },
       {
-        "lesson_name": "Вел. пр. з зоології ст. в. Гусоковська Т. М.",
-        "link": "11:10 https://meet.google.com/vbg-xzqe-dqj"
+        "lesson_name": "https://meet.google.com/vbg-xzqe-dqj Вел. пр. з зоології ст. в. Гусоковська Т. М.",
+        "link": "11:10 "
       }
     ],
     [
