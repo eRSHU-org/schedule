@@ -78,7 +78,7 @@
                 "link": "https://meet.google.com/qvv-yant-fjr"
             },
             {
-                "lesson_name": "Долікарська підготовка Пономаренко В.Ю.",
+                "lesson_name": "Долікарська медична підготовка Пономаренко В.Ю.",
                 "lesson_number": 4,
                 "link": "https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1"
             },
@@ -88,10 +88,26 @@
                 "link": null
             }
         ],
-        [],
         [
             {
-                "lesson_name": "Долікарська підготовка Пономаренко В.Ю.",
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "з 06.03 Аналіз вимог до програмного забезпечення проф. Турбал Ю.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "з 06.03 Аналіз вимог до програмного забезпечення проф. Турбал Ю.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Долікарська медична підготовка Пономаренко В.Ю.",
                 "lesson_number": 1,
                 "link": "https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1"
             },

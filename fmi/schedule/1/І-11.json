@@ -59,11 +59,6 @@
                 "lesson_name": "Алгоритмізація і програмування доц. Бабич С.М.",
                 "lesson_number": 2,
                 "link": "https://meet.google.com/ybd-wroa-waw"
-            },
-            {
-                "lesson_name": "Web- технології в освіті в. Пропопюк Л.С.",
-                "lesson_number": 3,
-                "link": "https://meet.google.com/xkc-cpxf-bhj"
             }
         ],
         [
@@ -93,6 +88,11 @@
                 "lesson_name": "Архітектура комп'ютерних систем та мереж ст.в. Шидловський А.І.",
                 "lesson_number": 2,
                 "link": "https://meet.google.com/nhj-zqit-fdz"
+            },
+            {
+                "lesson_name": "з 06.03 Web- технології в освіті в. Пропопюк Л.С.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/xkc-cpxf-bhj"
             }
         ]
     ]
