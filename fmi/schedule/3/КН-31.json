@@ -2,13 +2,18 @@
     "week": [
         [
             {
-                "lesson_name": "Інтелектуальний аналіз даних Data Mining доц. Сяський В.А.",
+                "lesson_name": "Системний аналіз та методи прийняття рішень доц. Мащенко В.А.",
                 "lesson_number": 1,
-                "link": "https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1"
+                "link": "https://meet.google.com/ejp-ktoy-ovq"
             },
             {
                 "lesson_name": "Інтелектуальний аналіз даних Data Mining доц. Сяський В.А.",
                 "lesson_number": 2,
+                "link": "https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1"
+            },
+            {
+                "lesson_name": "Інтелектуальний аналіз даних Data Mining доц. Сяський В.А.",
+                "lesson_number": 3,
                 "link": "https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1"
             }
         ],
@@ -19,9 +24,9 @@
                 "link": "https://meet.google.com/kqk-dqbq-mjr"
             },
             {
-                "lesson_name": "Іноземна мова Ковалюк В.В.",
+                "lesson_name": "Іноземна мова Краля І.В.",
                 "lesson_number": 2,
-                "link": "https://meet.google.com/ieq-kiqn-ouo"
+                "link": "https://meet.google.com/sov-eebh-oeb"
             }
         ],
         [
@@ -50,12 +55,12 @@
             {
                 "lesson_name": "Системний аналіз та методи прийняття рішень доц. Мащенко В.А.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/ejp-ktoy-ovq"
             },
             {
                 "lesson_name": "Системний аналіз та методи прийняття рішень доц. Мащенко В.А.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/ejp-ktoy-ovq"
             },
             {
                 "lesson_name": "Проєктування та розробка комп'ютерних ігор ст.в. Ляшук Т.Г.",
