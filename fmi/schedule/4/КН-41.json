@@ -34,9 +34,9 @@
         ],
         [
             {
-                "lesson_name": "Захист інформації доц. Кіндрат П.В.",
+                "lesson_name": null,
                 "lesson_number": 1,
-                "link": "https://meet.google.com/peb-swwm-ony"
+                "link": null
             },
             {
                 "lesson_name": "Захист інформації доц. Кіндрат П.В.",
@@ -44,13 +44,18 @@
                 "link": "https://meet.google.com/peb-swwm-ony"
             },
             {
-                "lesson_name": "Криптологія доц. Кіндрат П.В.",
+                "lesson_name": "Захист інформації доц. Кіндрат П.В.",
                 "lesson_number": 3,
                 "link": "https://meet.google.com/peb-swwm-ony"
             },
             {
+                "lesson_name": "15.45 год Криптологія доц. Кіндрат П.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/peb-swwm-onyy"
+            },
+            {
                 "lesson_name": null,
-                "lesson_number": 3,
+                "lesson_number": 4,
                 "link": null
             }
         ],
@@ -86,28 +91,7 @@
                 "link": "https://meet.google.com/kqk-dqbq-mjr"
             }
         ],
-        [
-            {
-                "lesson_name": "Основи робототехніки ст.в. Ляшук Т.Г.",
-                "lesson_number": 1,
-                "link": "https://meet.google.com/kqk-dqbq-mjr"
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": "Основи робототехніки ст.в. Ляшук Т.Г.",
-                "lesson_number": 2,
-                "link": "https://meet.google.com/kqk-dqbq-mjr"
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 2,
-                "link": null
-            }
-        ],
+        [],
         [
             {
                 "lesson_name": null,

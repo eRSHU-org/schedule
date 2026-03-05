@@ -24,36 +24,29 @@
         ],
         [
             {
-                "lesson_name": "Практикум з розв'язування геометричних задач доц. Генсіцька-Антонюк Н.О.",
+                "lesson_name": null,
                 "lesson_number": 1,
-                "link": "https://meet.google.com/twj-gkse-nmq"
+                "link": null
             },
             {
-                "lesson_name": "Практикум з розв'язування геометричних задач доц. Генсіцька-Антонюк Н.О.",
+                "lesson_name": "Теоретична підготовка базової загальновійськової підготовки доц. Трофімчук В.М.",
+                "lesson_number": 1,
+                "link": "аудиторія 419"
+            },
+            {
+                "lesson_name": null,
                 "lesson_number": 2,
-                "link": "https://meet.google.com/twj-gkse-nmq"
+                "link": null
+            },
+            {
+                "lesson_name": "Теоретична підготовка базової загальновійськової підготовки доц. Трофімчук В.М.",
+                "lesson_number": 2,
+                "link": "аудиторія 419"
             },
             {
                 "lesson_name": "Математична логіка та теорія алгоритмів доц. Полюхович Н.В.",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/dpr-debq-qok"
-            }
-        ],
-        [
-            {
-                "lesson_name": "Практикум з розв'язування геометричних задач доц. Генсіцька-Антонюк Н.О.",
-                "lesson_number": 1,
-                "link": "https://meet.google.com/twj-gkse-nmq"
-            },
-            {
-                "lesson_name": "Навчання математики з використанням комп'ютерної техніки доц. Сяська Н.А.",
-                "lesson_number": 2,
-                "link": "https://us04web.zoom.us/j/9201137986?pwd=U1lScW9jeXlpV0Joc0ZudWRZZmJIZz09"
-            },
-            {
-                "lesson_name": "Диференціальні рівняння проф. Петрівський Я.Б.",
-                "lesson_number": 3,
-                "link": "https://meet.google.com/vrd-toei-zmx"
+                "link": "аудиторія 405"
             }
         ],
         [
@@ -63,14 +56,51 @@
                 "link": null
             },
             {
-                "lesson_name": "Диференціальна геометрія і топологія ст.в. Тимчук М.В.",
-                "lesson_number": 2,
-                "link": "https://meet.google.com/sjt-tvmu-dcc"
+                "lesson_name": "Теоретична підготовка базової загальновійськової підготовки доц. Трофімчук В.М.",
+                "lesson_number": 1,
+                "link": "аудиторія 419"
             },
             {
-                "lesson_name": "Алгебра і теорія чисел проф. Крайчук О.В.",
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теоретична підготовка базової загальновійськової підготовки доц. Трофімчук В.М.",
+                "lesson_number": 2,
+                "link": "аудиторія 419"
+            },
+            {
+                "lesson_name": "Диференціальні рівняння проф. Петрівський Я.Б.",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/ntz-mctt-xbt"
+                "link": "аудиторія 405"
+            },
+            {
+                "lesson_name": "Практикум з розв'язування геометричних задач доц. Генсіцька-Антонюк Н.О.",
+                "lesson_number": 4,
+                "link": "аудиторія 105"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Навчання математики з використанням комп'ютерної техніки доц. Сяська Н.А.",
+                "lesson_number": 1,
+                "link": "аудиторія 107"
+            },
+            {
+                "lesson_name": "Диференціальна геометрія і топологія ст.в. Тимчук М.В.",
+                "lesson_number": 2,
+                "link": "аудиторія 231"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Теоретична підготовка базової загальновійськової підготовки доц. Трофімчук В.М. ауд. 122 гуртожиток 4",
+                "lesson_number": 3,
+                "link": null
             },
             {
                 "lesson_name": "Долікарська медична підготовка Пономаренко В.Ю.",
