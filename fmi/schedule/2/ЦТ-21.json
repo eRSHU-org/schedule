@@ -103,9 +103,9 @@
                 "link": null
             },
             {
-                "lesson_name": "Долікарська медична підготовка Пономаренко В.Ю.",
+                "lesson_name": "Долікарська медична підготовка Пономаренко В.Ю. ауд. 7 гуртожиток 5",
                 "lesson_number": 4,
-                "link": "https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1"
+                "link": null
             },
             {
                 "lesson_name": null,
@@ -115,12 +115,12 @@
         ],
         [
             {
-                "lesson_name": "14:15 Операційні системи доц. Кіндрат П.В.",
+                "lesson_name": null,
                 "lesson_number": 1,
-                "link": "https://meet.google.com/peb-swwm-ony"
+                "link": null
             },
             {
-                "lesson_name": "Вікова і педагогічна психологія доц. Галуха Л.Ю.",
+                "lesson_name": "Соціальна психологія доц. Галуха Л.Ю.",
                 "lesson_number": 2,
                 "link": "аудиторія 405"
             },
@@ -142,14 +142,19 @@
                 "link": null
             },
             {
-                "lesson_name": null,
+                "lesson_name": "11.10 год 07.03, 21.03, 04.04 Програмування мовою С доц. Кіндрат П.В.",
                 "lesson_number": 2,
+                "link": "https://meet.google.com/peb-swwm-ony"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
                 "link": null
             },
             {
-                "lesson_name": "Програмування мовою С доц. Кіндрат П.В.",
+                "lesson_name": "14.03, 28.03, 11.04 Теоретична підготовка базової загальновійськової підготовки доц. Трофімчук В.М. ауд. 122 гуртожиток 4",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/peb-swwm-ony"
+                "link": null
             }
         ]
     ]
