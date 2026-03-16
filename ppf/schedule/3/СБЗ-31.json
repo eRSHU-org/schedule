@@ -2,65 +2,78 @@
   "week": [
     [
       {
-        "lesson_name": "Імуногенетика доц. Гуцман С. В.",
-        "link": "12:45  meet.google.com/jhv-bvaj-evp"
+        "lesson_name": "Г. 7, ауд. 228  https://meet.google.com/jhv-bvaj-evp Імуногенетика доц. Гуцман С. В.",
+        "link": "12:45"
       },
       {
-        "lesson_name": "Імуногенетика доц. Гуцман С. В.",
-        "link": "14:15  meet.google.com/jhv-bvaj-evp"
+        "lesson_name": "Г. 7, ауд. 228  https://meet.google.com/jhv-bvaj-evp Імуногенетика доц. Гуцман С. В.",
+        "link": "14:15"
       },
       {
-        "lesson_name": "Фізіологія рослин ст. в. Куцоконь Л. П.",
-        "link": "09:35 https://meet.google.com/xqo-vssh-dbu"
+        "lesson_name": "Г. 7, ауд. 228 Фізіологія рослин ст. в. Куцоконь Л. П.",
+        "link": "09:35"
       },
       {
-        "lesson_name": "Фізіологія рослин ст. в. Куцоконь Л. П.",
-        "link": "11:10 https://meet.google.com/xqo-vssh-dbu "
-      }
-    ],
-    [],
-    [
-      {
-        "lesson_name": "https://us04web.zoom.us/j/74680380273? pwd=xax6hk JXdNubMWyboOUDQbVIu4ebat.1 МНБ проф. Грицай Н. Б.",
-        "link": "09:35 "
-      },
-      {
-        "lesson_name": "https://us04web.zoom.us/j/74680380273? pwd=xax6hk JXdNubMWyboOUDQbVIu4ebat.1 МНБ проф. Грицай Н. Б.",
+        "lesson_name": "Г. 7, ауд. 228 Фізіологія рослин ст. в. Куцоконь Л. П.",
         "link": "11:10"
       }
     ],
     [
       {
-        "lesson_name": "ФСС доц. Гуцман С. В.",
-        "link": "12:45  meet.google.com/pkr-izoi-zdm "
+        "lesson_name": "Здорова школа проф. Павелків К. М.",
+        "link": "09:35 https://meet.google.com/aux-satv-ere"
       },
       {
-        "lesson_name": "Анатомія і еволюція НС проф. Марциновський В. П.",
-        "link": "09:35 https://meet.google.com/nmo-ysha-hep "
-      },
-      {
-        "lesson_name": "Анатомія і еволюція НС проф. Марциновський В. П.",
-        "link": "11:10 https://meet.google.com/nmo-ysha-hep "
+        "lesson_name": "Здорова школа проф. Павелків К. М.",
+        "link": "11:10 https://meet.google.com/aux-satv-ere"
       }
     ],
     [
       {
-        "lesson_name": "Паразитологія доц. Рудь О. Г.",
-        "link": "12:45 https://meet.google.com/niw-mewi-ozq"
+        "lesson_name": "МНБ проф. Грицай Н. Б.",
+        "link": "11:10 https://us04web.zoom.us/j/76383308654?pwd=FcRESnh30sRWqjNi0whWW09b124eoI.1"
       },
       {
-        "lesson_name": "Паразитологія доц. Рудь О. Г.",
-        "link": "14:15 https://meet.google.com/niw-mewi-ozq"
+        "lesson_name": "МНБ проф. Грицай Н. Б.",
+        "link": "9:35 https://us04web.zoom.us/j/76383308654?pwd=FcRESnh30sRWqjNi0whWW09b124eoI.1"
       }
     ],
     [
       {
-        "lesson_name": "Фізіологія рослин ст. в. Куцоконь Л. П.",
-        "link": "09:35 https://meet.google.com/xqo-vssh-dbu"
+        "lesson_name": "https://meet.google.com/pkr-izoi-zdm ФСС доц. Гуцман С. В.",
+        "link": "12:45 "
       },
       {
-        "lesson_name": "Фізіологія рослин ст. в. Куцоконь Л. П.",
-        "link": "11:10 https://meet.google.com/xqo-vssh-dbu"
+        "lesson_name": "ФСС  https://meet.google.com/pkr-izoi-zdm доц. Гуцман С. В.",
+        "link": "14:15 "
+      },
+      {
+        "lesson_name": "https://meet.google.com/nmo-ysha-hep б/а Анатомія і еволюція НС проф. Марциновський В. П.",
+        "link": "09:35 "
+      },
+      {
+        "lesson_name": "https://meet.google.com/nmo-ysha-hep б/а Анатомія і еволюція НС проф. Марциновський В. П.",
+        "link": "11:10 "
+      }
+    ],
+    [
+      {
+        "lesson_name": "доц. Рудь О. Г.",
+        "link": "12:45 https://meet.google.com/zmy-joxe-gtj Паразитологія"
+      },
+      {
+        "lesson_name": "Паразитологія доц. Рудь О. Г.",
+        "link": "14:15 https://meet.google.com/zmy-joxe-gtj"
+      },
+      {
+        "lesson_name": "Мікробіологія в. Пономаренко В. Ю.",
+        "link": "15:45"
+      }
+    ],
+    [
+      {
+        "lesson_name": "Мікробіологія в. Пономаренко В. Ю.",
+        "link": "14:15"
       }
     ]
   ]
