@@ -76,14 +76,14 @@
                 "link": "аудиторія 419"
             },
             {
-                "lesson_name": "нб Бази даних та інформаційні системи доц. Бабич С.М.",
+                "lesson_name": "Бази даних та інформаційні системи доц. Бабич С.М.",
                 "lesson_number": 3,
-                "link": null
+                "link": "аудиторія 107"
             },
             {
                 "lesson_name": "Програмування на базі технології .net ст.в. Кирик Т.А.",
                 "lesson_number": 4,
-                "link": null
+                "link": "аудиторія 101"
             }
         ],
         [
@@ -147,9 +147,9 @@
                 "link": null
             },
             {
-                "lesson_name": null,
+                "lesson_name": "9.35 год та 11.10 год (21.03, 04.04, 18.04, 25.04, 02.05, 09.05, 16.05) Web-програмування ст.в. Гаврюсєв С.М.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/ncv-iaqs-ebe"
             },
             {
                 "lesson_name": null,
