@@ -2,14 +2,14 @@
     "week": [
         [
             {
-                "lesson_name": "Основи програмної інженерії доц. Шроль Т.С.",
+                "lesson_name": null,
                 "lesson_number": 1,
-                "link": "аудиторія 103"
+                "link": null
             },
             {
-                "lesson_name": null,
+                "lesson_name": "Основи програмної інженерії доц. Шроль Т.С.",
                 "lesson_number": 2,
-                "link": null
+                "link": "аудиторія 103"
             },
             {
                 "lesson_name": "Бази даних ст.в. Гульчук В.А.",
