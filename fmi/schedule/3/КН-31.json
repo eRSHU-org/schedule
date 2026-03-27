@@ -4,41 +4,41 @@
             {
                 "lesson_name": "Системний аналіз та методи прийняття рішень доц. Мащенко В.А.",
                 "lesson_number": 1,
-                "link": "https://meet.google.com/ejp-ktoy-ovq"
+                "link": "аудиторія 107"
             },
             {
                 "lesson_name": "Інтелектуальний аналіз даних Data Mining доц. Сяський В.А.",
                 "lesson_number": 2,
-                "link": "https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1"
+                "link": "аудиторія 227"
             },
             {
                 "lesson_name": "Інтелектуальний аналіз даних Data Mining доц. Сяський В.А.",
                 "lesson_number": 3,
-                "link": "https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1"
+                "link": "аудиторія 227"
             }
         ],
         [
             {
                 "lesson_name": "Розподілені системи та паралельні обчислення доц. Шевцова Н.В.",
                 "lesson_number": 1,
-                "link": "https://meet.google.com/kdo-mbqz-krp"
+                "link": "аудиторія 107"
             },
             {
                 "lesson_name": "Іноземна мова Краля І.В.",
                 "lesson_number": 2,
-                "link": "https://meet.google.com/sov-eebh-oeb"
+                "link": "аудиторія 227"
             }
         ],
         [
             {
                 "lesson_name": "Проєктування та розробка комп'ютерних ігор ст.в. Ляшук Т.Г.",
                 "lesson_number": 1,
-                "link": "https://meet.google.com/kqk-dqbq-mjr"
+                "link": "аудиторія 103"
             },
             {
                 "lesson_name": "Розподілені системи та паралельні обчислення доц. Шевцова Н.В.",
                 "lesson_number": 2,
-                "link": "https://meet.google.com/kdo-mbqz-krp"
+                "link": "аудиторія 104"
             },
             {
                 "lesson_name": null,
@@ -48,32 +48,16 @@
             {
                 "lesson_name": "Філософія доц. Грицишина М.В.",
                 "lesson_number": 4,
-                "link": "https://meet.google.com/yon-noiz-ysn"
+                "link": "аудиторія 102"
             }
         ],
         [
             {
                 "lesson_name": "Системний аналіз та методи прийняття рішень доц. Мащенко В.А.",
                 "lesson_number": 1,
-                "link": "https://meet.google.com/ejp-ktoy-ovq"
+                "link": "аудиторія 107"
             }
         ],
-        [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Філософія доц. Грицишина М.В.",
-                "lesson_number": 3,
-                "link": "https://meet.google.com/yon-noiz-ysn"
-            }
-        ]
+        []
     ]
 }

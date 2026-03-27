@@ -9,27 +9,22 @@
             {
                 "lesson_name": "Адміністрування Unix систем доц. Шинкарчук Н.В.",
                 "lesson_number": 2,
-                "link": "http://meet.google.com/aam-bmke-eon"
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 2,
-                "link": null
+                "link": "аудиторія 105"
             },
             {
                 "lesson_name": "Інтерфейси користувача та системні інтерфейси доц. Петренко С.В.",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/gmw-ayke-iua"
+                "link": "аудиторія 107"
             },
             {
                 "lesson_name": "Інтерфейси користувача та системні інтерфейси доц. Петренко С.В.",
                 "lesson_number": 4,
-                "link": "https://meet.google.com/gmw-ayke-iua"
+                "link": "аудиторія 102"
             },
             {
                 "lesson_name": "Інтерфейси користувача та системні інтерфейси доц. Бабич С.М.",
                 "lesson_number": 4,
-                "link": "https://meet.google.com/ybd-wroa-waw"
+                "link": "аудиторія 102"
             }
         ],
         [
@@ -41,17 +36,17 @@
             {
                 "lesson_name": "Моделювання та проєктування програмного забезпечення доц. Петренко С.В.",
                 "lesson_number": 2,
-                "link": "https://meet.google.com/gmw-ayke-iua"
+                "link": "аудиторія 104"
             },
             {
                 "lesson_name": "Моделювання та проєктування програмного забезпечення доц. Петренко С.В.",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/gmw-ayke-iua"
+                "link": "аудиторія 104"
             },
             {
                 "lesson_name": "Моделювання та проєктування програмного забезпечення проф. Шліхта Г.О.",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/fqu-kfqo-dke"
+                "link": "аудиторія 104"
             }
         ],
         [
@@ -63,17 +58,17 @@
             {
                 "lesson_name": "Розподілені системи та паралельні обчислення доц. Шевцова Н.В.",
                 "lesson_number": 1,
-                "link": "https://meet.google.com/kdo-mbqz-krp"
+                "link": "аудиторія 104"
             },
             {
                 "lesson_name": "Розподілені системи та паралельні обчислення доц. Шевцова Н.В.",
                 "lesson_number": 2,
-                "link": "https://meet.google.com/kdo-mbqz-krp"
+                "link": "аудиторія 104"
             },
             {
                 "lesson_name": "Розподілені системи та паралельні обчислення доц. Шевцова Н.В.",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/kdo-mbqz-krp"
+                "link": "аудиторія 101"
             },
             {
                 "lesson_name": null,
@@ -83,19 +78,19 @@
             {
                 "lesson_name": "Філософія доц. Грицишина М.В.",
                 "lesson_number": 4,
-                "link": "https://meet.google.com/yon-noiz-ysn"
+                "link": "аудиторія 102"
             }
         ],
         [
             {
                 "lesson_name": "Системний аналіз та методи прийняття рішень доц. Мащенко В.А.",
                 "lesson_number": 1,
-                "link": "https://meet.google.com/ejp-ktoy-ovq"
+                "link": "аудиторія 107"
             },
             {
                 "lesson_name": "Системний аналіз та методи прийняття рішень доц. Мащенко В.А.",
                 "lesson_number": 2,
-                "link": "https://meet.google.com/ejp-ktoy-ovq"
+                "link": "аудиторія 107"
             },
             {
                 "lesson_name": null,
@@ -105,7 +100,7 @@
             {
                 "lesson_name": "Проєктування та розробка комп'ютерних ігор ст.в. Ляшук Т.Г.",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/kqk-dqbq-mjr"
+                "link": "аудиторія 103"
             },
             {
                 "lesson_name": null,
@@ -120,7 +115,7 @@
             {
                 "lesson_name": "Проєктування та розробка комп'ютерних ігор ст.в. Ляшук Т.Г.",
                 "lesson_number": 4,
-                "link": "https://meet.google.com/kqk-dqbq-mjr"
+                "link": "аудиторія 103"
             }
         ],
         [
@@ -132,22 +127,22 @@
             {
                 "lesson_name": "Системний аналіз та методи прийняття рішень доц. Мащенко В.А.",
                 "lesson_number": 1,
-                "link": "https://meet.google.com/ejp-ktoy-ovq"
+                "link": "аудиторія 107"
             },
             {
-                "lesson_name": "Філософія доц. Грицишина М.В.",
+                "lesson_name": null,
                 "lesson_number": 2,
-                "link": "https://meet.google.com/yon-noiz-ysn"
+                "link": null
             },
             {
                 "lesson_name": "Інтерфейси користувача та системні інтерфейси доц. Петренко С.В.",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/gmw-ayke-iua"
+                "link": "аудиторія 102"
             },
             {
                 "lesson_name": "Інтерфейси користувача та системні інтерфейси доц. Бабич С.М.",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/ybd-wroa-waw"
+                "link": "аудиторія 102"
             },
             {
                 "lesson_name": null,

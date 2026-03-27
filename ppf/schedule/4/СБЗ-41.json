@@ -2,76 +2,84 @@
   "week": [
     [
       {
-        "lesson_name": "Г. 4, ауд. 10 Вел. пр. з бот. ст. в. Куцоконь Л. П.",
-        "link": "12:45"
+        "lesson_name": "Вел. пр. з бот. ст. в. Куцоконь Л. П.",
+        "link": "12:45 https://meet.google.com/xqo-vssh-dbu"
       },
       {
-        "lesson_name": "Г. 4, ауд. 10 Вел. пр. з бот. ст. в. Куцоконь Л. П.",
-        "link": "14:15"
+        "lesson_name": "Вел. пр. з бот. ст. в. Куцоконь Л. П.",
+        "link": "14:15 https://meet.google.com/xqo-vssh-dbu"
       },
       {
-        "lesson_name": "Г. 4, ауд. 10 ЗТЗ та ЗД в. Гуцелюк І. А.",
+        "lesson_name": "ЗТЗ та ЗД в. Гуцелюк І. А.",
         "link": "09:35"
       },
       {
-        "lesson_name": "Г. 4, ауд. 10 ЗТЗ та ЗД в. Гуцелюк І. А.",
+        "lesson_name": "ЗТЗ та ЗД в. Гуцелюк І. А.",
         "link": "11:10"
       }
     ],
     [
       {
         "lesson_name": "Соціологія доц. Опанасюк Т. А.",
-        "link": "12:45"
+        "link": "12:45 https://meet.google.com/bfh-jhej-cwu"
       },
       {
         "lesson_name": "Соціологія доц. Опанасюк Т. А.",
-        "link": "14:15"
+        "link": "14:15 https://meet.google.com/bfh-jhej-cwu"
       }
     ],
     [
       {
         "lesson_name": "БЖД проф. Глінчук Ю. О.",
-        "link": "12:45"
+        "link": "12:45 https://meet.google.com/xtz-tfwg-fsh"
       },
       {
         "lesson_name": "БЖД проф. Глінчук Ю. О.",
-        "link": "14:15"
+        "link": "14:15 https://meet.google.com/xtz-tfwg-fsh"
       },
       {
         "lesson_name": "Спадкові хвороби доц. Жилінський А. П.",
+        "link": "15:45 https://meet.google.com/jxi-gioc-oey"
+      },
+      {
+        "lesson_name": "Спадкові хвороби доц. Жилінський А. П.",
+        "link": "17:15 https://meet.google.com/jxi-gioc-oey"
+      }
+    ],
+    [
+      {
+        "lesson_name": "онлайн Великий прак. із зоології ст. в. Гусаковська Т. М.",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "онлайн Великий прак. із зоології ст. в. Гусаковська Т. М.",
         "link": "15:45"
       },
       {
-        "lesson_name": "Спадкові хвороби доц. Жилінський А. П.",
-        "link": "17:15"
-      }
-    ],
-    [
-      {
-        "lesson_name": "09:35 Г. 7, ауд. 224 Здор. збер. пед. техн. ст. в. Лазарчук В. В.",
-        "link": "0"
-      },
-      {
-        "lesson_name": "11:10 Г. 7, ауд. 224 Здор. збер. пед. техн. ст. в. Лазарчук В. В.",
-        "link": "0"
-      }
-    ],
-    [
-      {
-        "lesson_name": "Г. 7, ауд. 228 ВП з Б ст. в. Куцоконь Л. П.",
-        "link": "12:45"
-      },
-      {
-        "lesson_name": "Г. 7, ауд. 228 ВП з Б ст. в. Куцоконь Л. П.",
-        "link": "14:15"
-      },
-      {
-        "lesson_name": "Г. 7, ауд. 221 Мед. шк. екс. ст. в. Лазарчук В. В.",
+        "lesson_name": "https://meet.google.com/kir-bafu-zik Здор. збер. пед. техн. ст. в. Лазарчук В. В.",
         "link": "09:35"
       },
       {
-        "lesson_name": "Г. 7, ауд. 221 Мед. шк. екс. ст. в. Лазарчук В. В.",
+        "lesson_name": "https://meet.google.com/kir-bafu-zik Здор. збер. пед. техн. ст. в. Лазарчук В. В.",
         "link": "11:10"
+      }
+    ],
+    [
+      {
+        "lesson_name": "Г. 7, ауд. 221 ВП з Б ст. в. Куцоконь Л. П.",
+        "link": "12:45 https://meet.google.com/xqo-vssh-dbu"
+      },
+      {
+        "lesson_name": "Г. 7, ауд. 221 ВП з Б ст. в. Куцоконь Л. П.",
+        "link": "14:15 https://meet.google.com/xqo-vssh-dbu"
+      },
+      {
+        "lesson_name": "Г. 7, ауд. 221 Мед. шк. екс. ст. в. Лазарчук В. В.",
+        "link": "09:35 https://meet.google.com/kir-bafu-zik"
+      },
+      {
+        "lesson_name": "Г. 7, ауд. 221 Мед. шк. екс. ст. в. Лазарчук В. В.",
+        "link": "11:10 https://meet.google.com/kir-bafu-zik"
       }
     ],
     [
@@ -85,11 +93,11 @@
       },
       {
         "lesson_name": "ДТН в Б в. Пономаренко В. Ю.",
-        "link": "09:35"
+        "link": "09:35 https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1"
       },
       {
         "lesson_name": "ДТН в Б в. Пономаренко В. Ю.",
-        "link": "11:10"
+        "link": "11:10 https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1"
       }
     ]
   ]
