@@ -1,7 +1,12 @@
 {
   "week": [
     [],
-    [],
+    [
+      {
+        "lesson_name": "онлайн Історія української культури проф. Поліщук Н. В.",
+        "link": "17:15"
+      }
+    ],
     [
       {
         "lesson_name": "Г. 7, ауд. 226  https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1 ДМД в. Пономаренко В. Ю.",
@@ -10,23 +15,22 @@
       {
         "lesson_name": "Г. 7, ауд. 226  https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1 ДМД в. Пономаренко В. Ю.",
         "link": "14:15"
-      }
-    ],
-    [
-      {
-        "lesson_name": "https://meet.google.com/iqt-inia-zyy проф. Павелків К. М.",
-        "link": "12:45 "
-      }
-    ],
-    [
-      {
-        "lesson_name": "ауд. 324 Іноземна мова проф. Павелків К. М.",
-        "link": "12:45"
       },
       {
-        "lesson_name": "ауд. 324 Іноземна мова проф. Павелків К. М.",
+        "lesson_name": "онлайн Історія української культури проф. Поліщук Н. В.",
+        "link": "17:15"
+      }
+    ],
+    [
+      {
+        "lesson_name": "ауд. 324 https://meet.google.com/iqt-inia-zyy проф. Павелків К. М.",
+        "link": "12:45 "
+      },
+      {
+        "lesson_name": "ауд. 324 https://meet.google.com/iqt-inia-zyy проф. Павелків К. М.",
         "link": "11:10"
       }
-    ]
+    ],
+    []
   ]
 }

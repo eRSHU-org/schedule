@@ -1,22 +1,6 @@
 {
     "week": [
-        [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": "17:15 Мультимодальна обробка даних в АІ проф. Шліхта Г.О.",
-                "lesson_number": 2,
-                "link": "https://meet.google.com/fqu-kfqo-dke"
-            },
-            {
-                "lesson_name": "18:45 Тестування програмного забезпечення проф. Шліхта Г.О.",
-                "lesson_number": 3,
-                "link": "https://meet.google.com/fqu-kfqo-dke"
-            }
-        ],
+        [],
         [
             {
                 "lesson_name": "17:15 Мультимодальна обробка даних в АІ проф. Шліхта Г.О.",
