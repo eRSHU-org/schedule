@@ -2,28 +2,7 @@
     "week": [
         [],
         [],
-        [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Методика навчання математики проф. Павелків О.М.",
-                "lesson_number": 3,
-                "link": "аудиторія 122"
-            },
-            {
-                "lesson_name": "Філософія доц. Грицишина М.В.",
-                "lesson_number": 4,
-                "link": "аудиторія 102"
-            }
-        ],
+        [],
         [
             {
                 "lesson_name": "Комплексний аналіз ст.в. Тимчук М.В.",

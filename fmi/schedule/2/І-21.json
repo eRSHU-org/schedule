@@ -39,23 +39,7 @@
                 "link": null
             }
         ],
-        [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Філософія доц. Грицишина М.В.",
-                "lesson_number": 3,
-                "link": "https://meet.google.com/yon-noiz-ysn"
-            }
-        ],
+        [],
         [
             {
                 "lesson_name": "з 23.04 Вибрані питання STEM освіти ст.в. Шидловський А.І.",
