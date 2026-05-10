@@ -41,7 +41,7 @@
             {
                 "lesson_name": "Методика навчання інформатики проф. Павлова Н.С.",
                 "lesson_number": 4,
-                "link": "аудиторія оц"
+                "link": "аудиторія 103"
             }
         ],
         [
@@ -95,7 +95,7 @@
             {
                 "lesson_name": "Основи штучного інтелекту проф. Юзик О.П.",
                 "lesson_number": 2,
-                "link": "аудиторія 104"
+                "link": "аудиторія 103"
             },
             {
                 "lesson_name": "з 19.03 Методика навчання інформатики проф. Павлова Н.С.",
@@ -121,18 +121,23 @@
         [],
         [
             {
+                "lesson_name": "Основи штучного інтелекту проф. Юзик О.П.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
+            },
+            {
                 "lesson_name": null,
                 "lesson_number": 1,
                 "link": null
             },
             {
-                "lesson_name": "Основи штучного інтелекту проф. Юзик О.П.",
+                "lesson_name": null,
                 "lesson_number": 2,
-                "link": "https://meet.google.com/xpz-nnfn-weh"
+                "link": null
             },
             {
                 "lesson_name": "Основи штучного інтелекту проф. Юзик О.П.",
-                "lesson_number": 3,
+                "lesson_number": 2,
                 "link": "https://meet.google.com/xpz-nnfn-weh"
             }
         ]

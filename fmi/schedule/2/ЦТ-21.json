@@ -1,78 +1,30 @@
 {
     "week": [
+        [],
+        [],
         [
             {
                 "lesson_name": null,
                 "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
                 "link": null
             },
             {
                 "lesson_name": "Основи програмної інженерії доц. Шроль Т.С.",
-                "lesson_number": 2,
-                "link": "аудиторія 103"
-            },
-            {
-                "lesson_name": "Бази даних ст.в. Гульчук В.А.",
-                "lesson_number": 3,
-                "link": "аудиторія 104"
-            }
-        ],
-        [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Теоретична підготовка базової загальновійськової підготовки доц. Трофімчук В.М. ауд. 122 гуртожиток 4",
-                "lesson_number": 2,
-                "link": null
-            }
-        ],
-        [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Розробка UI/UX дизайну та web-сервісів в. Прокопюк Л.С.",
-                "lesson_number": 3,
+                "lesson_number": 4,
                 "link": "аудиторія 103"
             }
         ],
-        [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 3,
-                "link": null
-            },
-            {
-                "lesson_name": "Теоретична підготовка базової загальновійськової підготовки доц. Трофімчук В.М. ауд. 122 гуртожиток 4",
-                "lesson_number": 3,
-                "link": null
-            }
-        ],
+        [],
         [
             {
                 "lesson_name": null,
@@ -82,12 +34,12 @@
             {
                 "lesson_name": "Соціальна психологія доц. Галуха Л.Ю.",
                 "lesson_number": 2,
-                "link": "аудиторія 405"
+                "link": "https://meet.google.com/hnn-rndj-gwi"
             },
             {
-                "lesson_name": "Вікова і педагогічна психологія доц. Галуха Л.Ю.",
+                "lesson_name": "Соціальна психологія доц. Галуха Л.Ю.",
                 "lesson_number": 3,
-                "link": "аудиторія 405"
+                "link": "https://meet.google.com/hnn-rndj-gwi"
             }
         ],
         [
