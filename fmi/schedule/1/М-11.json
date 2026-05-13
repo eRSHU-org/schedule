@@ -68,6 +68,17 @@
                 "link": "аудиторія 312"
             }
         ],
-        []
+        [
+            {
+                "lesson_name": "Аналітична геометрія доц. Білецький В.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова Краля І.В.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ]
     ]
 }
