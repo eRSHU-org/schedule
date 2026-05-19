@@ -56,7 +56,18 @@
                 "link": "http://meet.google.com/qke-exbu-die"
             }
         ],
-        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Вибрані питання шкільного курсу математики доц. Сяська Н.А.",
+                "lesson_number": 2,
+                "link": "https://us04web.zoom.us/j/9201137986?pwd=U1lScW9jeXlpV0Joc0ZudWRZZmJIZz09"
+            }
+        ],
         [
             {
                 "lesson_name": "Основи геометрії доц. Присяжнюк І.М.",
