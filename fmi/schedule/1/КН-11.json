@@ -1,47 +1,20 @@
 {
     "week": [
-        [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": "Програмування ст.в. Кирик Т.А.",
-                "lesson_number": 2,
-                "link": "аудиторія 101"
-            }
-        ],
-        [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 3,
-                "link": null
-            },
-            {
-                "lesson_name": "Алгоритми та стуктури даних ст.в. Кирик Т.А.",
-                "lesson_number": 4,
-                "link": "аудиторія 101"
-            }
-        ],
         [],
         [
             {
-                "lesson_name": "Лінійна алгебра та аналітична геометрія доц. Присяжнюк І.М.",
+                "lesson_name": null,
                 "lesson_number": 1,
-                "link": "аудиторія 405"
+                "link": null
+            },
+            {
+                "lesson_name": "10:00 Посвята першокурсників",
+                "lesson_number": 2,
+                "link": null
             }
         ],
+        [],
+        [],
         []
     ]
 }

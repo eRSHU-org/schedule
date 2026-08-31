@@ -1,5 +1,6 @@
 {
     "week": [
+        [],
         [
             {
                 "lesson_name": null,
@@ -7,40 +8,13 @@
                 "link": null
             },
             {
-                "lesson_name": null,
+                "lesson_name": "10:00 Посвята першокурсників",
                 "lesson_number": 2,
                 "link": null
-            },
-            {
-                "lesson_name": "Теорія ймовірностей і математична статистика проф. Крайчук О.В.",
-                "lesson_number": 3,
-                "link": "аудиторія 312"
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 4,
-                "link": null
-            },
-            {
-                "lesson_name": "14:15 Польська мова Волос Н.П. аудиторія 303",
-                "lesson_number": 4,
-                "link": "https://meet.google.com/fkh-aiog-jvc"
             }
         ],
         [],
         [],
-        [
-            {
-                "lesson_name": "Історія української культури проф. Виткалов С.В.",
-                "lesson_number": 1,
-                "link": "аудиторія 230"
-            },
-            {
-                "lesson_name": "Теорія ймовірностей і математична статистика проф. Крайчук О.В.",
-                "lesson_number": 2,
-                "link": "аудиторія 227"
-            }
-        ],
         []
     ]
 }
