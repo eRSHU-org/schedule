@@ -81,7 +81,7 @@
         "specialty_name": "Е-31"
       },
       {
-        "specialty_name": "Г-31"
+        "specialty_name": "СГ-31"
       },
       {
         "specialty_name": "Б-31 "
@@ -105,7 +105,10 @@
         "specialty_name": "ФТ-31"
       },
       {
-        "specialty_name": "Т-41"
+        "specialty_name": "ФТ-32"
+      },
+      {
+        "specialty_name": "Т-31"
       }
     ],
     [
