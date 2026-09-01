@@ -138,6 +138,12 @@
       },
       {
         "specialty_name": "ПП-41"
+      },
+      {
+        "specialty_name": "ПП-42"
+      },
+      {
+        "specialty_name": "Т-41"
       }
     ],
     [
@@ -174,10 +180,10 @@
         "specialty_name": "МСГ-61"
       },
       {
-        "specialty_name": "МЕ-51"
+        "specialty_name": "МЕ-61"
       },
       {
-        "specialty_name": "МТ-51"
+        "specialty_name": "МТ-61"
       }
     ]
   ]
