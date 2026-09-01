@@ -2,7 +2,23 @@
     "week": [
         [],
         [],
-        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Зустріч з колективом факультету",
+                "lesson_number": 2,
+                "link": "аудиторія 205"
+            },
+            {
+                "lesson_name": "проф. Руденко В.М.",
+                "lesson_number": 3,
+                "link": "аудиторія 104"
+            }
+        ],
         [],
         []
     ]
