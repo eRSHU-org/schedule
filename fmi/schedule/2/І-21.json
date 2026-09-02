@@ -52,6 +52,22 @@
                 "link": "аудиторія 104"
             }
         ],
-        []
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Дидактика доц. Галатюк М.Ю. аудиторія",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Професійні та наукові соціальні мережі проф. Остапчук Н.О. аудиторія",
+                "lesson_number": 3,
+                "link": null
+            }
+        ]
     ]
 }
