@@ -36,6 +36,22 @@
                 "link": "аудиторія 312"
             }
         ],
-        []
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Аналітична геометрія доц. Білецький В.В. аудиторія",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Українська мова проф. Шульжук Н.В. аудиторія",
+                "lesson_number": 3,
+                "link": null
+            }
+        ]
     ]
 }
