@@ -1,18 +1,7 @@
 {
     "week": [
         [],
-        [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": "10:00 Посвята першокурсників",
-                "lesson_number": 2,
-                "link": null
-            }
-        ],
+        [],
         [
             {
                 "lesson_name": null,
@@ -42,9 +31,9 @@
                 "link": null
             },
             {
-                "lesson_name": "Алгоритмізація і програмування доц. Кіндрат П.В.",
+                "lesson_name": "Вступ до спеціальності проф. Гнедко Н.М.",
                 "lesson_number": 2,
-                "link": "аудиторія 319"
+                "link": "аудиторія 107"
             },
             {
                 "lesson_name": "Алгоритмізація і програмування доц. Кіндрат П.В.",
