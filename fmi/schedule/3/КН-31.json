@@ -1,6 +1,22 @@
 {
     "week": [
-        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Математичні методи дослідження операцій проф. Петрівський Я.Б.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/vrd-toei-zmx"
+            },
+            {
+                "lesson_name": "дистанційно Математичні методи дослідження операцій проф. Петрівський Я.Б.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/vrd-toei-zmx"
+            }
+        ],
         [
             {
                 "lesson_name": "Логічне програмування доц. Сяський В.А.",
@@ -11,6 +27,11 @@
                 "lesson_name": "Логічне програмування доц. Сяський В.А.",
                 "lesson_number": 2,
                 "link": "аудиторія 319"
+            },
+            {
+                "lesson_name": "Математичні методи дослідження операцій проф. Петрівський Я.Б.",
+                "lesson_number": 3,
+                "link": null
             }
         ],
         [
@@ -47,6 +68,22 @@
                 "link": "аудиторія 101"
             }
         ],
-        []
+        [
+            {
+                "lesson_name": "дистанційно Кросплатформне програмування доц. Петренко С.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            },
+            {
+                "lesson_name": "дистанційно Кросплатформне програмування доц. Петренко С.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            },
+            {
+                "lesson_name": "дистанційно Математичні методи дослідження операцій проф. Петрівський Я.Б.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/vrd-toei-zmx"
+            }
+        ]
     ]
 }

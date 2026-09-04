@@ -1,7 +1,5 @@
 {
     "week": [
-        [],
-        [],
         [
             {
                 "lesson_name": null,
@@ -9,9 +7,48 @@
                 "link": null
             },
             {
-                "lesson_name": "Зустріч з колективом факультету",
+                "lesson_name": "дистанційно Математика в STEM-навчанні доц. Синіцька Н.В.",
                 "lesson_number": 2,
-                "link": "аудиторія 310"
+                "link": "https://meet.google.com/zrz-qhbt-bmv"
+            },
+            {
+                "lesson_name": "дистанційно Математика в STEM-навчанні доц. Синіцька Н.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/zrz-qhbt-bmv"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Іноземна мова доц. Ясногурська Л.М.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Іноземна мова доц. Ясногурська Л.М.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
             },
             {
                 "lesson_name": "Технології наукових досліджень (в галузі) проф. Руденко В.М.",
@@ -26,6 +63,18 @@
                 "link": "https://meet.google.com/twj-gkse-nmq"
             }
         ],
-        []
+        [],
+        [
+            {
+                "lesson_name": "дистанційно Функціональний аналіз доц. Присяжнюк І.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/pjo-ekif-xkn"
+            },
+            {
+                "lesson_name": "дистанційно Функціональний аналіз доц. Присяжнюк І.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/pjo-ekif-xkn"
+            }
+        ]
     ]
 }

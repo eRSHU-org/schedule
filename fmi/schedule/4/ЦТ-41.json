@@ -1,21 +1,25 @@
 {
     "week": [
-        [],
         [
+            {
+                "lesson_name": "дистанційно Аудіо та відеомонтаж ст.в. Шидловський А.І.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/dae-kfho-usa"
+            },
             {
                 "lesson_name": null,
                 "lesson_number": 1,
                 "link": null
             },
             {
-                "lesson_name": "Основи штучного інтелекту проф. Юзик О.П.",
+                "lesson_name": "дистанційно Аудіо та відеомонтаж ст.в. Шидловський А.І.",
                 "lesson_number": 2,
-                "link": "аудиторія оц"
+                "link": "https://meet.google.com/dae-kfho-usa"
             },
             {
-                "lesson_name": "Основи штучного інтелекту проф. Юзик О.П.",
-                "lesson_number": 3,
-                "link": "аудиторія оц"
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
             }
         ],
         [
@@ -25,9 +29,41 @@
                 "link": "аудиторія 104"
             },
             {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
                 "lesson_name": "Аудіо та відеомонтаж ст.в. Шидловський А.І.",
                 "lesson_number": 2,
                 "link": "аудиторія 104"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Аудіо та відеомонтаж ст.в. Шидловський А.І.",
+                "lesson_number": 1,
+                "link": "аудиторія 104"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Аудіо та відеомонтаж ст.в. Шидловський А.І.",
+                "lesson_number": 2,
+                "link": "аудиторія 104"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
             },
             {
                 "lesson_name": "Основи штучного інтелекту проф. Юзик О.П.",
@@ -52,6 +88,34 @@
                 "link": "аудиторія 103"
             }
         ],
-        []
+        [
+            {
+                "lesson_name": "Методика професійного навчання проф. Войтович І.С.",
+                "lesson_number": 1,
+                "link": "аудиторія 103"
+            }
+        ],
+        [
+            {
+                "lesson_name": "дистанційно Основи штучного інтелекту проф. Юзик О.П.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
+            },
+            {
+                "lesson_name": "дистанційно Основи штучного інтелекту проф. Юзик О.П.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
+            },
+            {
+                "lesson_name": "дистанційно Методика професійного навчання проф. Войтович І.С.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/dvd-xzjb-qew"
+            },
+            {
+                "lesson_name": "дистанційно Методика професійного навчання проф. Войтович І.С.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/dvd-xzjb-qew"
+            }
+        ]
     ]
 }

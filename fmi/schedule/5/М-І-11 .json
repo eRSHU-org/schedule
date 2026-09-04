@@ -1,7 +1,18 @@
 {
     "week": [
         [],
-        [],
+        [
+            {
+                "lesson_name": "дистанційно Теорія і методика навчання інформатики та STEM-освіти проф. Павлова Н.С.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/gpt-tcrq-kjw"
+            },
+            {
+                "lesson_name": "дистанційно Організація позакласної і позашкільної ІТ-освіти проф. Павлова Н.С.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/gpt-tcrq-kjw"
+            }
+        ],
         [
             {
                 "lesson_name": null,
@@ -9,9 +20,9 @@
                 "link": null
             },
             {
-                "lesson_name": "Зустріч з колективом факультету",
+                "lesson_name": null,
                 "lesson_number": 2,
-                "link": "аудиторія 205"
+                "link": null
             },
             {
                 "lesson_name": "Технології наукових досліджень (в галузі) проф. Руденко В.М.",

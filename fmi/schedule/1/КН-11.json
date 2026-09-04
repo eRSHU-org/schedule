@@ -1,7 +1,44 @@
 {
     "week": [
-        [],
-        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Комп'ютерна фізика ст.в.Ляшук Т.Г.",
+                "lesson_number": 2,
+                "link": "аудиторія 101"
+            },
+            {
+                "lesson_name": "Комп'ютерна фізика ст.в.Ляшук Т.Г.",
+                "lesson_number": 3,
+                "link": "аудиторія 101"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Комп'ютерна фізика ст.в.Ляшук Т.Г. аудиторія",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Комп'ютерна математика доц. Бабич С.М. аудиторія",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Математичний аналіз доц. Присяжнюк І.М. аудиторія",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи інформаційної культури читальний зал",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
         [
             {
                 "lesson_name": "Дискретний аналіз доц. Шевцова Н.В.",
@@ -38,19 +75,14 @@
         ],
         [
             {
-                "lesson_name": null,
+                "lesson_name": "Дискретний аналіз доц. Шевцова Н.В.",
                 "lesson_number": 1,
-                "link": null
+                "link": "аудиторія 405"
             },
             {
-                "lesson_name": "Комп'ютерна математика доц. Бабич С.М. аудиторія",
+                "lesson_name": "Комп'ютерна математика доц. Бабич С.М.",
                 "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Дискретний аналіз доц. Шевцова Н.В. аудиторія",
-                "lesson_number": 3,
-                "link": null
+                "link": "аудиторія 319"
             }
         ]
     ]
