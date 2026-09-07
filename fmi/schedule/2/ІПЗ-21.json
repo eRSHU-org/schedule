@@ -29,19 +29,19 @@
                 "link": null
             },
             {
-                "lesson_name": "Комп'ютерна математика доц. Бабич С.М. аудиторія",
+                "lesson_name": null,
                 "lesson_number": 2,
                 "link": null
             },
             {
-                "lesson_name": "Українська мова доц. Павлюк Н.П. аудиторія",
+                "lesson_name": "Українська мова доц. Павлюк Н.П.",
                 "lesson_number": 3,
-                "link": null
+                "link": "аудиторія 103"
             },
             {
-                "lesson_name": "Українська мова доц. Павлюк Н.П. аудиторія",
+                "lesson_name": "Українська мова доц. Павлюк Н.П.",
                 "lesson_number": 4,
-                "link": null
+                "link": "аудиторія 103"
             }
         ],
         [
