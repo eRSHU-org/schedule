@@ -3,24 +3,73 @@
     [],
     [
       {
-        "lesson_name": "Адаптивний спорт доц. Шелюк В. О. ",
+        "lesson_name": " Адаптивний спорт доц. Шелюк В. О. ",
         "link": "12:45"
       },
       {
-        "lesson_name": "Т і МСВ доц. Ярмощук О. О. ",
+        "lesson_name": "https://meet.google.com/sxd-vcys-vti Т і МСВ доц. Ярмощук О. О. ",
         "link": "08:00"
       },
       {
-        "lesson_name": "Т і МСВ доц. Ярмощук О. О. ",
+        "lesson_name": "https://meet.google.com/sxd-vcys-vti Т і МСВ доц. Ярмощук О. О. ",
         "link": "09:35"
       },
       {
-        "lesson_name": "Адаптивний спорт доц. Шелюк В. О. ",
+        "lesson_name": " Адаптивний спорт доц. Шелюк В. О. ",
         "link": "11:10"
       }
     ],
-    [],
-    [],
-    []
+    [
+      {
+        "lesson_name": "Іноземна мова https://meet.google.com/fyr-ttkc-csg проф. Бездюдна В. В.",
+        "link": "09:35"
+      },
+      {
+        "lesson_name": "Іноземна мова https://meet.google.com/fyr-ttkc-csg проф. Бездюдна В. В.",
+        "link": "11:10"
+      }
+    ],
+    [
+      {
+        "lesson_name": " Велнес-технології в. Шеретюк Ю. В. ",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": " Велнес-технології в. Шеретюк Ю. В. ",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "https://meet.google.com/sxd-vcys-vti ПРЕВВС доц. Ярмощук О. О. ",
+        "link": "08:00"
+      },
+      {
+        "lesson_name": "https://meet.google.com/sxd-vcys-vti ПРЕВВС доц. Ярмощук О. О. ",
+        "link": "09:35"
+      }
+    ],
+    [
+      {
+        "lesson_name": "https://meet.google.com/hbm-mhym-hrm Спортивна аналітика доц. Василюк В. М. ",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "https://meet.google.com/hbm-mhym-hrm Спортивна аналітика доц. Василюк В. М. ",
+        "link": "14:15"
+      }
+    ],
+    [
+      {
+        "lesson_name": " Велнес-технології в. Шеретюк Ю. В. ",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "https://meet.google.com/hbm-mhym-hrm Спортивна аналітика доц. Василюк В. М. ",
+        "link": "08:00"
+      },
+      {
+        "lesson_name": "https://meet.google.com/hbm-mhym-hrm Спортивна аналітика доц. Василюк В. М. ",
+        "link": "09:35"
+      }
+    ]
   ]
 }

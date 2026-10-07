@@ -1,6 +1,27 @@
 {
     "week": [
-        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "18.45 год Комп'ютерно-інформаційні технології (в галузі) проф. Войтович І.С.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/dvd-xzjb-qew"
+            }
+        ],
         [
             {
                 "lesson_name": null,
@@ -25,6 +46,23 @@
         ],
         [
             {
+                "lesson_name": "Computer and Information Technologies (in the field) IHOR VOITOVYCH",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/dvd-xzjb-qew"
+            },
+            {
+                "lesson_name": "дистанційно Технології наукових досліджень (в галузі) проф. Руденко В.М.",
+                "lesson_number": 2,
+                "link": "https://teams.microsoft.com/meet/321475146939853?p=ObGs7nVNwUgQcfxPhH"
+            },
+            {
+                "lesson_name": "дистанційно Технології наукових досліджень (в галузі) проф. Руденко В.М.",
+                "lesson_number": 3,
+                "link": "https://teams.microsoft.com/meet/321475146939853?p=ObGs7nVNwUgQcfxPhH"
+            }
+        ],
+        [
+            {
                 "lesson_name": null,
                 "lesson_number": 1,
                 "link": null
@@ -35,12 +73,16 @@
                 "link": null
             },
             {
-                "lesson_name": "Технології наукових досліджень (в галузі) проф. Руденко В.М.",
+                "lesson_name": "17.15 год дистанційно Проєктування освітніх технологій проф. Шліхта Г.О.",
                 "lesson_number": 3,
-                "link": "аудиторія 104"
+                "link": "https://meet.google.com/qsn-jiog-iou"
+            },
+            {
+                "lesson_name": "18.45 год дистанційно Методика навчання комп'ютерних дисциплін та інформаційних технологій проф. Шліхта Г.О.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/qsn-jiog-iou"
             }
         ],
-        [],
         [
             {
                 "lesson_name": null,

@@ -1,6 +1,71 @@
 {
     "week": [
-        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "14.15 год Концепція сталого розвитку проф. Сяська І.О.",
+                "lesson_number": 2,
+                "link": "https://us04web.zoom.us/j/8210789205?pwd=WiOZ0GCgA8Qe4oyDeSf25aIQT9cKTA.1"
+            },
+            {
+                "lesson_name": "17.15 год Педагогіка нов. школи доц. Остапчук М.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/qzb-anjn-qmu"
+            },
+            {
+                "lesson_name": "18.45 год Комп'ютерно-інформаційні технології (в галузі) проф. Войтович І.С.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/dvd-xzjb-qew"
+            }
+        ],
+        [
+            {
+                "lesson_name": "14.15 год Концепція сталого розвитку проф. Сяська І.О.",
+                "lesson_number": 1,
+                "link": "https://us04web.zoom.us/j/8210789205?pwd=WiOZ0GCgA8Qe4oyDeSf25aIQT9cKTA.1"
+            },
+            {
+                "lesson_name": "17.15 год Педагогіка нов. школи доц. Остапчук М.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/qzb-anjn-qmu"
+            },
+            {
+                "lesson_name": "дистанційно Адміністрування цифрових освітніх систем та кібербезпека даних доц. Кіндрат П.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/peb-swwm-ony"
+            },
+            {
+                "lesson_name": "дистанційно Адміністрування цифрових освітніх систем та кібербезпека даних доц. Кіндрат П.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/peb-swwm-ony"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Computer and Information Technologies (in the field) IHOR VOITOVYCH",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/dvd-xzjb-qew"
+            },
+            {
+                "lesson_name": "дистанційно Технології наукових досліджень (в галузі) проф. Руденко В.М.",
+                "lesson_number": 2,
+                "link": "https://teams.microsoft.com/meet/321475146939853?p=ObGs7nVNwUgQcfxPhH"
+            },
+            {
+                "lesson_name": "дистанційно Технології наукових досліджень (в галузі) проф. Руденко В.М.",
+                "lesson_number": 3,
+                "link": "https://teams.microsoft.com/meet/321475146939853?p=ObGs7nVNwUgQcfxPhH"
+            },
+            {
+                "lesson_name": "12.45 та 14.15 год дистанційно Адміністрування цифрових освітніх систем та кібербезпека даних доц. Кіндрат П.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/peb-swwm-ony"
+            }
+        ],
         [
             {
                 "lesson_name": "дистанційно Теорія і методика навчання інформатики та STEM-освіти проф. Павлова Н.С.",
@@ -11,6 +76,16 @@
                 "lesson_name": "дистанційно Організація позакласної і позашкільної ІТ-освіти проф. Павлова Н.С.",
                 "lesson_number": 2,
                 "link": "https://meet.google.com/gpt-tcrq-kjw"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "12.45 та 14.15 год дистанційно Методології та парадигми розробки програмного забезпечення доц. Шроль Т.С.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/xfk-avhe-tha"
             }
         ],
         [
@@ -25,12 +100,27 @@
                 "link": null
             },
             {
-                "lesson_name": "Технології наукових досліджень (в галузі) проф. Руденко В.М.",
+                "lesson_name": "дистанційно Теорія і методика навчання інформатики та STEM-освіти проф. Павлова Н.С.",
                 "lesson_number": 3,
-                "link": "аудиторія 104"
+                "link": "https://meet.google.com/gpt-tcrq-kjw"
+            },
+            {
+                "lesson_name": "дистанційно Організація позакласної і позашкільної ІТ-освіти проф. Павлова Н.С.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/gpt-tcrq-kjw"
             }
         ],
-        [],
-        []
+        [
+            {
+                "lesson_name": "дистанційно Методології та парадигми розробки програмного забезпечення доц. Шроль Т.С.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/xfk-avhe-tha"
+            },
+            {
+                "lesson_name": "дистанційно Методології та парадигми розробки програмного забезпечення доц. Шроль Т.С.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/xfk-avhe-tha"
+            }
+        ]
     ]
 }

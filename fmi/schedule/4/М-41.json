@@ -10,6 +10,16 @@
                 "lesson_name": "дистанційно Методика навчання інформатики проф. Павлова Н.С.",
                 "lesson_number": 2,
                 "link": "https://meet.google.com/gpt-tcrq-kjw"
+            },
+            {
+                "lesson_name": "дистанційно ТЙ та МС проф. Крайчук О.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/ntz-mctt-xbt"
+            },
+            {
+                "lesson_name": "дистанційно ТЙ та МС проф. Крайчук О.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/ntz-mctt-xbt"
             }
         ],
         [
@@ -36,19 +46,19 @@
         ],
         [
             {
-                "lesson_name": null,
+                "lesson_name": "дистанційно ТЙ та МС проф. Крайчук О.В.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/ntz-mctt-xbt"
             },
             {
-                "lesson_name": "ТЙ та МС проф. Крайчук О.В.",
+                "lesson_name": "дистанційно ТЙ та МС проф. Крайчук О.В.",
                 "lesson_number": 2,
-                "link": "аудиторія 038"
+                "link": "https://meet.google.com/ntz-mctt-xbt"
             },
             {
-                "lesson_name": "ТЙ та МС проф. Крайчук О.В.",
+                "lesson_name": "дистанційно ТЙ та МС проф. Крайчук О.В.",
                 "lesson_number": 3,
-                "link": "аудиторія 038"
+                "link": "https://meet.google.com/ntz-mctt-xbt"
             }
         ],
         [
@@ -66,22 +76,22 @@
                 "lesson_name": "Методика навчання математики проф. Павелків О.М.",
                 "lesson_number": 3,
                 "link": "аудиторія 122"
+            },
+            {
+                "lesson_name": "дистанційно ТЙ та МС проф. Крайчук О.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/ntz-mctt-xbt"
             }
         ],
         [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
             {
                 "lesson_name": "дистанційно Методика навчання інформатики проф. Павлова Н.С.",
-                "lesson_number": 2,
+                "lesson_number": 1,
                 "link": "https://meet.google.com/gpt-tcrq-kjw"
             },
             {
                 "lesson_name": "дистанційно Методика навчання інформатики проф. Павлова Н.С.",
-                "lesson_number": 3,
+                "lesson_number": 2,
                 "link": "https://meet.google.com/gpt-tcrq-kjw"
             }
         ]

@@ -1,14 +1,62 @@
 {
   "week": [
-    [],
     [
       {
-        "lesson_name": "АС доц. Шелюк В. О. ",
+        "lesson_name": "https://meet.google.com/cnv-iupx-tud Педагогіка вищої школи проф. Безкоровайна О. В. ",
+        "link": "17:45"
+      }
+    ],
+    [
+      {
+        "lesson_name": " Адаптивний спорт доц. Шелюк В. О. ",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "https://meet.google.com/cnv-iupx-tud Педагогіка вищої школи проф. Безкоровайна О. В. ",
+        "link": "17:45"
+      },
+      {
+        "lesson_name": "https://meet.google.com/dvd-xzjb-qew КІТ проф. Войтович І. С. ",
+        "link": "18:45"
+      },
+      {
+        "lesson_name": " Адаптивний спорт доц. Шелюк В. О. ",
         "link": "11:10"
       }
     ],
-    [],
-    [],
-    []
+    [
+      {
+        "lesson_name": "https://us04web.zoom.us/j ПМТ доц. Чалій Л. В. ",
+        "link": "09:35"
+      },
+      {
+        "lesson_name": "https://us04web.zoom.us/j ПМТ доц. Чалій Л. В. ",
+        "link": "11:10"
+      },
+      {
+        "lesson_name": "https://meet.google.com/dvd-xzjb-qew КІТ проф. Войтович І. С",
+        "link": "08:00"
+      }
+    ],
+    [
+      {
+        "lesson_name": "https://meet.google.com/fte-yaui-swa Технологія наукових досліджень в галузі  доц. Ваколюк А. М. ",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "https://meet.google.com/fte-yaui-swa Технологія наукових досліджень в галузі  доц. Ваколюк А. М. ",
+        "link": "15:45"
+      }
+    ],
+    [
+      {
+        "lesson_name": "https://meet.google.com/sxd-vcys-vti СОТВСД доц. Ярмощук О.О.",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "https://meet.google.com/sxd-vcys-vti СОТВСД доц. Ярмощук О.О.",
+        "link": "11:10"
+      }
+    ]
   ]
 }

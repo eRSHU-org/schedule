@@ -1,18 +1,64 @@
 {
   "week": [
-    [],
     [
       {
-        "lesson_name": "Біоіндикація проф. Лисиця А. В. ",
+        "lesson_name": "https://meet.google.com/cnv-iupx-tud Педагогіка вищої школи проф. Безкоровайна О. В. ",
+        "link": "17:45"
+      }
+    ],
+    [
+      {
+        "lesson_name": "https://meet.google.com/cnv-iupx-tud Педагогіка вищої школи проф. Безкоровайна О. В. ",
+        "link": "17:45"
+      },
+      {
+        "lesson_name": "https://meet.google.com/dvd-xzjb-qew КІТ проф. Войтович І. С. ",
+        "link": "18:45"
+      },
+      {
+        "lesson_name": "https://meet.google.com/nzz-axps-wuc Біоіндикація проф. Лисиця А. В. ",
         "link": "09:35"
       },
       {
-        "lesson_name": "Біоіндикація проф. Лисиця А. В. ",
+        "lesson_name": "https://meet.google.com/nzz-axps-wuc Біоіндикація проф. Лисиця А. В. ",
         "link": "11:10"
       }
     ],
-    [],
-    [],
-    []
+    [
+      {
+        "lesson_name": "https://meet.google.com/dvd-xzjb-qew КІТ проф. Войтович І. С",
+        "link": "08:00"
+      }
+    ],
+    [
+      {
+        "lesson_name": "https://meet.google.com/boz-oepm-yvx Радіаційна безпека та моніторинг проф. Лисиця А. В. ",
+        "link": "15:45"
+      },
+      {
+        "lesson_name": "https://meet.google.com/boz-oepm-yvx Радіаційна безпека та моніторинг проф. Лисиця А. В. ",
+        "link": "17:15"
+      }
+    ],
+    [
+      {
+        "lesson_name": "https://meet.google.com/pkj-uguu-iwt Упр. пов. з відх. проф. Лисиця А.В.",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "https://meet.google.com/pkj-uguu-iwt Упр. пов. з відх. проф. Лисиця А.В.",
+        "link": "14:15"
+      }
+    ],
+    [
+      {
+        "lesson_name": "онлайн ГСВЕ проф. Мартинюк В.О.",
+        "link": "09:35"
+      },
+      {
+        "lesson_name": "онлайн ГСВЕ проф. Мартинюк В.О.",
+        "link": "11:10"
+      }
+    ]
   ]
 }

@@ -1,9 +1,78 @@
 {
   "week": [
-    [],
-    [],
-    [],
-    [],
-    []
+    [
+      {
+        "lesson_name": "https://meet.google.com/cnv-iupx-tud ПВШ проф. Безкоровайна О.В.",
+        "link": "17:15"
+      }
+    ],
+    [
+      {
+        "lesson_name": "https://meet.google.com/cnv-iupx-tud Педагогіка вищої школи проф. Безкоровайна О. В. ",
+        "link": "17:45"
+      },
+      {
+        "lesson_name": "https://meet.google.com/dvd-xzjb-qew КІТ проф. Войтович І. С. ",
+        "link": "18:45"
+      }
+    ],
+    [
+      {
+        "lesson_name": "МВППД у ЗВО доц. Созонюк О. С. ",
+        "link": "15:45"
+      },
+      {
+        "lesson_name": "МВППД у ЗВО доц. Созонюк О. С. ",
+        "link": "17:15"
+      },
+      {
+        "lesson_name": "https://meet.google.com/gov-yhvk-xeg Психометричне проєктування доц. Рудюк О. В. ",
+        "link": "09:35"
+      },
+      {
+        "lesson_name": "https://meet.google.com/gov-yhvk-xeg Психометричне проєктування доц. Рудюк О. В. ",
+        "link": "11:10"
+      },
+      {
+        "lesson_name": "https://meet.google.com/dvd-xzjb-qew КІТ проф. Войтович І. С",
+        "link": "08:00"
+      }
+    ],
+    [
+      {
+        "lesson_name": "https://meet.google.com/pem-ggzr-hqp Технології наукових досліджень у  психології та академічна  доброчесність проф. Михальчук Н. О. ",
+        "link": "15:45"
+      },
+      {
+        "lesson_name": "https://meet.google.com/pem-ggzr-hqp Технології наукових досліджень у  психології та академічна  доброчесність проф. Михальчук Н. О. ",
+        "link": "18:45"
+      },
+      {
+        "lesson_name": "https://us02web.zoom.us Панорама сучасної зарубіжної та  відчизняної психології доц. Назаревич В. В. ",
+        "link": "09:35"
+      },
+      {
+        "lesson_name": "https://us02web.zoom.us Панорама сучасної зарубіжної та  відчизняної психології доц. Назаревич В. В. ",
+        "link": "11:10"
+      }
+    ],
+    [
+      {
+        "lesson_name": "https://meet.google.com/xsh-iodm-pop Сучасні методи психокорекціі  та психотерапії ст.в. Дем'янюк О.Б.",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "https://meet.google.com/xsh-iodm-pop Сучасні методи психокорекціі  та психотерапії ст.в. Дем'янюк О.Б.",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "https://meet.google.com/kqv-pjor-wek  Активні методи психол. практ. доц. Сторож О.В. ",
+        "link": "09:35"
+      },
+      {
+        "lesson_name": "https://meet.google.com/kqv-pjor-wek  Активні методи психол. практ. доц. Сторож О.В.",
+        "link": "11:10"
+      }
+    ]
   ]
 }
